@@ -1,0 +1,1 @@
+Edited invite.html for email template changes. Adding two new image files for app store download images.
