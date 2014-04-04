@@ -1,0 +1,1 @@
+setting description and bets as not 'required'
