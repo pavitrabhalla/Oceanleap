@@ -1,0 +1,1 @@
+Fix to show participant count in challenge end email
