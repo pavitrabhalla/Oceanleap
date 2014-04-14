@@ -1,0 +1,1 @@
+Changed the location of stepshaker logo file to images/email from images/
