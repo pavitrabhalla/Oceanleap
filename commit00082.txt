@@ -1,0 +1,1 @@
+Changes to enable M7 registration and add that as the user's default device to the user_default_device table
