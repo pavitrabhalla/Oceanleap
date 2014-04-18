@@ -1,0 +1,1 @@
+Made changes to profile model class to have gender,height and timezone
