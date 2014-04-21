@@ -1,0 +1,1 @@
+Adding fitbit to default for users on fitbit registration
