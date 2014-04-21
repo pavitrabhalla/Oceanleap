@@ -1,0 +1,1 @@
+migration script to store fitbit default devices
