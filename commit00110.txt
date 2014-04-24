@@ -1,0 +1,1 @@
+Added user_access_status to be OK in fitness_device API with M7 registration
