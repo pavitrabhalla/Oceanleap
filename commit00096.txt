@@ -1,0 +1,1 @@
+1) Migration script for storing device_name as fitbit in default table. 2) M7 data POST API. 3)Update user lifetime_steps on M7 post. 4) API fitbit-devices changed to fitness-devices to incorporate M7. 4) API to get last_sync_time
