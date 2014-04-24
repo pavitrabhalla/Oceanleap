@@ -1,0 +1,1 @@
+fix on dehydrate user to show device name
