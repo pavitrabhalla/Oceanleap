@@ -1,0 +1,1 @@
+fix for showing device name in leaderboard
