@@ -1,0 +1,1 @@
+changes to show device in user-profile
