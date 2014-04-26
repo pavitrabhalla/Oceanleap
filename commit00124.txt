@@ -1,0 +1,1 @@
+Changes to show m7 device details on user-profile
