@@ -1,0 +1,1 @@
+Merge pull request #161 from Oceanleap/topic/pavitra/m7_deviceDetailsOnUserProfile
