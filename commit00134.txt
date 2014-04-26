@@ -1,0 +1,1 @@
+Added a key participant_devices to challenge-participant bundle
