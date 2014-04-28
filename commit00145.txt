@@ -1,0 +1,1 @@
+Changes to include the device name and last_sync_time as a part of User bundle
