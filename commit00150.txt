@@ -1,0 +1,1 @@
+Merge pull request #175 from Oceanleap/topic/pavitra/UserResourceBundletoIncludeDeviceNameandSyncTimefixforFitbit
