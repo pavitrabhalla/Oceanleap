@@ -1,0 +1,1 @@
+Changes to show the correct devices in leaderboard and user-profile
