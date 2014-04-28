@@ -1,0 +1,1 @@
+Changes to include the fix for device name and last_sync_time as a part of User bundle with Fitbit
