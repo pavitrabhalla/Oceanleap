@@ -1,0 +1,1 @@
+last_sync_time updates only on successful update of m7 numbers
