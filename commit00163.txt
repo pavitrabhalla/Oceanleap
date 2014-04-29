@@ -1,0 +1,1 @@
+Made change for calculation of daily performance
