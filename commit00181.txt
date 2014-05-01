@@ -1,0 +1,1 @@
+Fix to exclude calls to fitbit from challenge participant. Removing devices from participant object
