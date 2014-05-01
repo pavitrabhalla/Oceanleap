@@ -1,0 +1,1 @@
+Fix for creating daily performance objects for the correct date and fix for m7data errors
