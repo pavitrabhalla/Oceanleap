@@ -1,0 +1,1 @@
+Changes to calculate challenge steps from challenge start time if joined days later
