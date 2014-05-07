@@ -1,0 +1,1 @@
+Ensure only 1 m7 device for each user
