@@ -1,0 +1,1 @@
+fix to allow m7 re-register for a user and set as default device
