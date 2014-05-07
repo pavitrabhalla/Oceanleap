@@ -1,0 +1,1 @@
+Bug fix to allow re-registering of M7 devices for existing users
