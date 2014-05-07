@@ -1,0 +1,1 @@
+Changes to update steps for m7 when user joins challenge
