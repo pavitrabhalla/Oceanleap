@@ -1,0 +1,1 @@
+Error Bug Fix on m7device registration
