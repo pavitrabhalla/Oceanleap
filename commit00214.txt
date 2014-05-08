@@ -1,0 +1,1 @@
+Merge pull request #213 from Oceanleap/topic/pavitra/user_registered_email
