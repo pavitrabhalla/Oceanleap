@@ -1,0 +1,1 @@
+Changes for sending email at user join
