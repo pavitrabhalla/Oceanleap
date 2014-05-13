@@ -1,0 +1,1 @@
+Merge pull request #224 from Oceanleap/topic/pavitra/SnsEndpointRegistrationFix
