@@ -1,0 +1,1 @@
+Changes to create a challenge when user joins
