@@ -1,0 +1,1 @@
+Added steps field to auto challenge
