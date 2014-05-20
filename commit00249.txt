@@ -1,0 +1,1 @@
+Moved the creation of notification preferences to a signalled thread
