@@ -1,0 +1,1 @@
+Merge pull request #247 from Oceanleap/topic/pavitra/user_settings_resource_fix
