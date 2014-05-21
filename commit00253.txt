@@ -1,0 +1,1 @@
+Error fix on fitbit notification worker
