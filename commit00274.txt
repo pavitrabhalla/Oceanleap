@@ -1,0 +1,1 @@
+Changed the timezone param in user_profile schema to store upto 25 characters for full timezone names
