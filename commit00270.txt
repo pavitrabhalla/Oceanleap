@@ -1,0 +1,1 @@
+Merge pull request #249 from Oceanleap/topic/pavitra/bugfixForNotificationSettingsNotAvailable
