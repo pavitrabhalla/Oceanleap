@@ -1,0 +1,1 @@
+1. Added support to store timezone with mobile-device registration. 2. Fixed notification settings checks in notifications/views.py
