@@ -1,0 +1,1 @@
+1) Changed the description of user's first auto challenge. 2) Added height and gender on user bundle
