@@ -1,0 +1,1 @@
+Changes to add an FB profile for a user already registered with Stepshaker
