@@ -1,0 +1,1 @@
+Detaching invite from challenge creation and putting in a separate thread
