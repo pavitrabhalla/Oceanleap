@@ -1,0 +1,1 @@
+Fix in profiles/models.py with try-except blocks
