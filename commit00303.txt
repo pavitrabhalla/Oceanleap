@@ -1,0 +1,1 @@
+Removing email notifications for all registered users
