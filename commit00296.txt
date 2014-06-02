@@ -1,0 +1,1 @@
+fb_user_id field changed to long integer type
