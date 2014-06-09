@@ -1,0 +1,1 @@
+Adding analytics.html and its rendering method
