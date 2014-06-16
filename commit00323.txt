@@ -1,0 +1,1 @@
+Added stride length to user object
