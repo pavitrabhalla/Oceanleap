@@ -1,0 +1,1 @@
+Added 7day_average and Best day to the user-profile bundle
