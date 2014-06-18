@@ -1,0 +1,1 @@
+Merge pull request #286 from Oceanleap/topic/pavitra/AddedBestDayandAverageStepsToUserProfile
