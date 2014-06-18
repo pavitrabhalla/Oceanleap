@@ -1,0 +1,1 @@
+Changes to store and update an accumulated total of each day's steps data
