@@ -1,0 +1,1 @@
+Bug fix on m7-device register when UUID changes
