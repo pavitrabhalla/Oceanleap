@@ -1,0 +1,1 @@
+1. Added average/steps per day and rating to user profile table. 2. Added datamigration script to store average steps per day for existing users. 3. Moved the calculation of average steps per day to postData method
