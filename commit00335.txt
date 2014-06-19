@@ -1,0 +1,1 @@
+Added average steps per day to invitee object
