@@ -1,0 +1,1 @@
+1. Bug fix to store challenge as content object for taunt-cheer notifications 2. Added average steps per day to user profile
