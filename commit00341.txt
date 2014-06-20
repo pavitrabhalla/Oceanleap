@@ -1,0 +1,1 @@
+Fix in taunt and cheer to use challenge id and store it as content object
