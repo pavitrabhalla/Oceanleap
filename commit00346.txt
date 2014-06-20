@@ -1,0 +1,1 @@
+Merge pull request #295 from Oceanleap/topic/pavitra/fitbitErrorsSolved
