@@ -1,0 +1,1 @@
+Fix for fitbit_notification_worker errors. Added try catch and commented unused code.
