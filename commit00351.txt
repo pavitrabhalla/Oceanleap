@@ -1,0 +1,1 @@
+1) Added new API for suggested competitors.  2) Made the limit parameter for invited, recent and suggested API's optional in the get request
