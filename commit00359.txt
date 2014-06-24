@@ -1,0 +1,1 @@
+Suggested competitors API fix and facebook friends API fixes
