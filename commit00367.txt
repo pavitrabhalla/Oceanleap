@@ -1,0 +1,1 @@
+Added a new key to the invitee object:user_id
