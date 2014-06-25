@@ -1,0 +1,1 @@
+Saving analytics into the database
