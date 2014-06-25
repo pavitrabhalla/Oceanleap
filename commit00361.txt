@@ -1,0 +1,1 @@
+Added new table for storing ol_analytics
