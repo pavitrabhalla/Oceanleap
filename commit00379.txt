@@ -1,0 +1,1 @@
+Added last_seen update to verify-credentials method
