@@ -1,0 +1,1 @@
+Adding the check for existence of user profile for suggested competitors
