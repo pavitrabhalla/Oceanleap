@@ -1,0 +1,1 @@
+Merge pull request #315 from Oceanleap/topic/pavitra/last_seen_to_verify_credentials_method
