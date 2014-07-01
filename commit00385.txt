@@ -1,0 +1,1 @@
+1. Added inChallenge bool to user object. 2. Analytics save fix
