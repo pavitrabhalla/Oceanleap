@@ -1,0 +1,1 @@
+Added the active_users metric calculation to the analytics API
