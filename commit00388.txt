@@ -1,0 +1,1 @@
+Fixes to active_users metric and storing it in the database
