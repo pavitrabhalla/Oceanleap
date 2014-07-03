@@ -1,0 +1,1 @@
+1. API to register sensoplex device 2. API to post sensoplex data 3. API to get last_sync_time for sensoplex 4. Aall necessary backend support for sensoplex API's
