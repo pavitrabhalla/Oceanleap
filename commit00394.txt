@@ -1,0 +1,1 @@
+Changes to fix the client bug on recent and invited. Added key identifier.
