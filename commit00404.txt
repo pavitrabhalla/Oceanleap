@@ -1,0 +1,1 @@
+1. Added Migration table 2. Added tenant to user_profile table 3.User registration using app key 4.App_key generation method added
