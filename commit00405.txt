@@ -1,0 +1,1 @@
+1. Schemamigrations for all tables in Profiles, Devices, and Notifications. 2. Included tenant_id on all fitness device registration POST APIs
