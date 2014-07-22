@@ -1,0 +1,1 @@
+1. Added new App activity. 2. Added a fitness type table
