@@ -1,0 +1,1 @@
+1. Daily user performance based on user's timezone. 2. Added cronjob for calculating analytics
