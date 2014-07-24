@@ -1,0 +1,1 @@
+1. New schema for fitness devices. 2. Migration scripts to migrate existing devices
