@@ -1,0 +1,1 @@
+1. Created activity and data tables to post activity data. 2. Added new API to register fitness devices
