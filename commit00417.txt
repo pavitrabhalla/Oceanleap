@@ -1,0 +1,1 @@
+1. Added Activity API's 2. Code to support new devices and activity architecture 3. Created new tenant app to have the tenant tables 4. Changes to challenges to take multiple measurement types other than steps
