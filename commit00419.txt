@@ -1,0 +1,1 @@
+1. data migration to add stepshaker as tenant 2. migrate existing challenges with activity type
