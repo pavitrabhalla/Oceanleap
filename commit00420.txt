@@ -1,0 +1,1 @@
+Changes to signals and views in notifications.py on user sign up
