@@ -1,0 +1,1 @@
+Merge pull request #333 from Oceanleap/topic/pavitra/bugFixRegister
