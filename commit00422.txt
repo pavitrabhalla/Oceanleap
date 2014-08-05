@@ -1,0 +1,1 @@
+Change in migrations and migration to copy m7data to activity and activitydata
