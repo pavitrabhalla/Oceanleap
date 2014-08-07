@@ -1,0 +1,1 @@
+Merge pull request #337 from Oceanleap/topic/pavitra/lifetime_activity_aggregate
