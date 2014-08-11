@@ -1,0 +1,1 @@
+1. Changed the key compete_on for challenge creation. 2. Trial fix on cronjob method 3. Fix on forgot password
