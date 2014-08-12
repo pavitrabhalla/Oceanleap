@@ -1,0 +1,1 @@
+1. bug fix challenge participant. 2. Take off unused api's from urls 3. pull back epoch
