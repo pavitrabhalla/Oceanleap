@@ -1,0 +1,1 @@
+Merge pull request #344 from Oceanleap/topic/pavitra/bugFixnotificationUpdateOnSync
