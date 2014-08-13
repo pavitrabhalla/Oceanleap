@@ -1,0 +1,1 @@
+Epoch time support in posting activity data and last time sync for devices
