@@ -1,0 +1,1 @@
+bug fix short name from profiles in notifications
