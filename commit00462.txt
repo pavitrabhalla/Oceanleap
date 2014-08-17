@@ -1,0 +1,1 @@
+storing the username instead of email in invited_by in challengeinvite object creation
