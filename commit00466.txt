@@ -1,0 +1,1 @@
+Change in notifications/models.py/send() to not have errors on avatar being Null
