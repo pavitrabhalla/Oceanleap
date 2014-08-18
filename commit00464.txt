@@ -1,0 +1,1 @@
+Changes to notifications GET. 1) Image updates at each request. 2) Changed body to description
