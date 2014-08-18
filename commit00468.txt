@@ -1,0 +1,1 @@
+Short name bug on user joined notification
