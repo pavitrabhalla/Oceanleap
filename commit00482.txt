@@ -1,0 +1,1 @@
+Changes to the challenge list and challenge detail. Challenge list made lighter. Keys consistent with notifications list
