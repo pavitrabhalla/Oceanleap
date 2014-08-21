@@ -1,0 +1,1 @@
+Added required keys, duration and end timestamp to raw-data upload API. added Device_UUID as a part of the filename
