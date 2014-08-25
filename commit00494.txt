@@ -1,0 +1,1 @@
+Changes to challenge creation to fix bugs. Hydrate method for handling timestamps
