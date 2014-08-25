@@ -1,0 +1,1 @@
+Challenge list fix. Including start_date and end_date and duration_type keys
