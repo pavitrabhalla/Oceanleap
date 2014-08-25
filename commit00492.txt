@@ -1,0 +1,1 @@
+Added columns start_time and end_time on challenge to substitute start_date and end_date. Duration key changes
