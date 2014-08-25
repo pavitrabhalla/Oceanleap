@@ -1,0 +1,1 @@
+Merge pull request #366 from Oceanleap/topic/pavitra/challengeDurationChanges
