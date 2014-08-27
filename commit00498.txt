@@ -1,0 +1,1 @@
+Fix on FB connect and user register first challenge
