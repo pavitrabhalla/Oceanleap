@@ -1,0 +1,1 @@
+Merge pull request #376 from Oceanleap/topic/pavitra/SettingsListBugFix2
