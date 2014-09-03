@@ -1,0 +1,1 @@
+Merge pull request #382 from Oceanleap/topic/pavitra/bug_fixes_avatar_and_notifications
