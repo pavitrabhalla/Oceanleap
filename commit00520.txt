@@ -1,0 +1,1 @@
+Merge pull request #390 from Oceanleap/topic/pavitra/snsRegistration
