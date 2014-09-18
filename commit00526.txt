@@ -1,0 +1,1 @@
+Merge pull request #396 from Oceanleap/topic/pavitra/get_user_fix
