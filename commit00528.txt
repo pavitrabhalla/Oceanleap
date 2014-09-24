@@ -1,0 +1,1 @@
+Merge pull request #398 from Oceanleap/topic/pavitra/activity_stats_without_attribute_filters
