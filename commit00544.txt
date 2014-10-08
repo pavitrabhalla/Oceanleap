@@ -1,0 +1,1 @@
+Revert "Changes to tenant and application migrations"
