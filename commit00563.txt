@@ -1,0 +1,1 @@
+Merge pull request #449 from Oceanleap/pavitra/topic/challengeCreationOnRegistration
