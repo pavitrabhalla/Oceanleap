@@ -1,0 +1,1 @@
+Update notification settings for existing users with facebook connect
