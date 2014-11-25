@@ -1,0 +1,1 @@
+API to get common groups between users, or get all groups for a single user
