@@ -1,0 +1,1 @@
+Merge pull request #470 from Oceanleap/pavitra/topic/Get_Common_groups_for_users
